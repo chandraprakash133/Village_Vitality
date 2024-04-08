@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Pottery",
+    "category": "Ceramics",
+    "brand": "mud_hub",
+    "price": 49.99,
+    "stock": 50,
+    "description": "Elevate your home décor with artisanal charm - discover our pottery sale for unique and handcrafted pieces.",
+    "image": "../images/pottery.png"
+  },
+  {
+    "id": 2,
+    "name": "Stone Carvings",
+    "category": "Statues",
+    "brand": "stonewood",
+    "price": 499.99,
+    "stock": 100,
+    "image": "../images/Stone.png",
+    "description": "Add a touch of ancient artistry to your surroundings - discover our stone carvings sale now!"
+  },
+  {
+    "id": 3,
+    "name": "Fork Art",
+    "category": "Art",
+    "brand": "Arthub",
+    "price": 149.99,
+    "stock": 30,
+    "image": "../images/fork art.png",
+    "description": "Infuse whimsical charm into your décor - shop our fork art sale for unique and playful pieces!"
+  },
+  {
+    "id": 4,
+    "name": "Jewellery",
+    "category": "Ornaments",
+    "brand": "jewelhub",
+    "price": 499.99,
+    "stock": 20,
+    "image": "../images/jewel.png",
+    "description": "Elevate your style with artisanal elegance - explore our handmade jewelry sale for timeless treasures."
+  },
+  {
+    "id": 5,
+    "name": "Basket",
+    "category": "Crafts",
+    "brand": "SoundBeats",
+    "price": 149.99,
+    "stock": 30,
+    "image": "../images/basket.png",
+    "description": "Bring rustic charm to your home - shop our handmade basket sale for artisan-crafted storage solutions and décor accents."
+  },
+  {
+    "id": 6,
+    "name": "Blanket",
+    "category": "Textiles",
+    "brand": "textilehub",
+    "price": 199.99,
+    "stock": 20,
+    "image": "../images/blanket.png",
+    "description": "Wrap yourself in warmth and tradition - discover our handmade blanket sale for cozy comfort with a touch of craftsmanship.~~"
+  }
+]
